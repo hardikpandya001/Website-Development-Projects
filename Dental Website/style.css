@@ -1,0 +1,23 @@
+*{margin:0;padding:0}
+body{font-family:arial;font-size:14px;line-height:20px;color:#666;background:url(images/pattern.jpg) repeat fixed #ddd}
+.fix{overflow:hidden}
+.main{width:960px;margin:25px auto;display:block;background:#fff}
+.header{}
+.slider{width:960px;background:url(images/banner.jpg)no-repeat}
+.slider_text{color: #FFFFFF;
+line-height:43px;
+margin-left: 220px;
+margin-top: 63px;}
+.slider_text h1{color:BD6A1F;font-size:45px}
+.slider_text h2{}
+.slider_text p{}
+.maincontent{margin-top:25px}
+.sidebar{width:260px;float:left;background:#ededed;margin-right:30px;padding:20px}
+.sidebar ul{margin:0;padding:0;list-style:none}
+.sidebar ul li{padding:5px;border-bottom:1px solid #ddd}
+.sidebar ul li a{text-decoration:none;color:#666}
+.sidebar ul li a:hover{color:#000}
+.content{width:600px;padding-right:30px}
+.content h2{margin-bottom:15px;font-weight:normal;font-family: 'Ovo', serif;}
+.content p{margin-bottom:15px}
+.footer{padding:10px;background:#bbbbbb;text-align:center}
